@@ -1,3 +1,11 @@
+# <details>
+<summary>👉 TO SEE ALL DEVOPS PROJECTS 👈</summary><br><b>
+
+  - **[CLICK HERE 👊](https://github.com/Kartikpawar143/All-DevOps-Projects)**
+
+</b></details>
+
+
 # All-Docker-Projects
 
 <h2 align="left">Docker Projects</h2>
