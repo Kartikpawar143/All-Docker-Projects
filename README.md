@@ -1,11 +1,3 @@
-<details>
-<summary>👉 TO SEE ALL DEVOPS PROJECTS 👈</summary><br><b>
-
-  - **[CLICK HERE 👊](https://github.com/Kartikpawar143/All-DevOps-Projects)**
-
-</b></details>
-
-
 # All-Docker-Projects
 
 <h2 align="left">Docker Projects</h2>
@@ -26,7 +18,7 @@
    →  It is a 3 tier application uses Maven, Spring and Mysql. 
 
 <details>
-<summary>👉 TO SEE ALL DEVOPS PROJECTS 👈</summary><br><b>
+<summary> <h4> 👉 TO SEE ALL DEVOPS PROJECTS 👈 </h4/ </summary><br><b>
 
   - **[CLICK HERE 👊](https://github.com/Kartikpawar143/All-DevOps-Projects)**
 
