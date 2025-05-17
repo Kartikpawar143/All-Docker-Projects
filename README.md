@@ -17,9 +17,9 @@
 9. **[Expenses Tracker WebApp](https://github.com/Kartikpawar143/Expenses-Tracker-WebApp.git)** <br>
    →  It is a 3 tier application uses Maven, Spring and Mysql. 
 
-<details>
-<summary> <h4> 👉 TO SEE ALL DEVOPS PROJECTS 👈 </h4/ </summary><br><b>
+<h4> <details>
+<summary> 👉 TO SEE ALL DEVOPS PROJECTS 👈 </summary><br><b>
 
   - **[CLICK HERE 👊](https://github.com/Kartikpawar143/All-DevOps-Projects)**
 
-</b></details>
+</b></details> </h4>
